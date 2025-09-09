@@ -1,0 +1,21 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log files created by the bot
+bot.log
+
+# Virtual environments (if any)
+venv/
+ENV/
+env/
+
+# Environment/configuration files that may contain API keys
+.env
+.env.*
+config.py
+secrets.py
+
+# IDE/editor folders (e.g., VS Code)
+.vscode/
